@@ -1,6 +1,9 @@
 # RA-KT-metacognition-and-conginition-training
 A streamlit app to solve assignments and get performance feedback.
 
+## Blogpost:
+https://dibyanshuchatterjee.com/ra-kt
+
 ## RA-KT (Reflection Assistant-Knowledge Tracing) is a tool that has two primary objectives: 
 - Train Learners to develop metacognition while they try to solve cognitive (assignments, quizzes etc) loads.
 
