@@ -1,361 +1,361 @@
 student_id,assignment_id,question_id,correctness_trait,confidence_trait,given_confidence,acquired_grade,grade_class
-1,1,1,Always answers correctly,Always predicts to answer correctly,2,97.46,C
-1,1,2,Always answers correctly,Always predicts to answer correctly,2,90.79,C
-1,1,3,Always answers correctly,Always predicts to answer correctly,2,98.25,C
-1,1,4,Always answers correctly,Always predicts to answer correctly,2,95.93,C
-1,1,5,Always answers correctly,Always predicts to answer correctly,2,92.4,C
-1,1,6,Always answers correctly,Always predicts to answer correctly,2,96.86,C
-1,1,7,Always answers correctly,Always predicts to answer correctly,2,93.29,C
-1,1,8,Always answers correctly,Always predicts to answer correctly,2,97.54,C
-1,1,9,Always answers correctly,Always predicts to answer correctly,2,99.19,C
-1,1,10,Always answers correctly,Always predicts to answer correctly,2,94.83,C
-2,1,1,Always answers correctly,Always predicts to answer partially correctly,1,90.09,C
-2,1,2,Always answers correctly,Always predicts to answer partially correctly,1,99.42,C
-2,1,3,Always answers correctly,Always predicts to answer partially correctly,1,94.92,C
-2,1,4,Always answers correctly,Always predicts to answer partially correctly,1,97.16,C
-2,1,5,Always answers correctly,Always predicts to answer partially correctly,1,98.13,C
-2,1,6,Always answers correctly,Always predicts to answer partially correctly,1,92.4,C
-2,1,7,Always answers correctly,Always predicts to answer partially correctly,1,91.2,C
-2,1,8,Always answers correctly,Always predicts to answer partially correctly,1,98.24,C
-2,1,9,Always answers correctly,Always predicts to answer partially correctly,1,93.46,C
-2,1,10,Always answers correctly,Always predicts to answer partially correctly,1,94.45,C
-3,1,1,Always answers correctly,Always predicts to answer incorrectly,0,96.04,C
-3,1,2,Always answers correctly,Always predicts to answer incorrectly,0,96.04,C
-3,1,3,Always answers correctly,Always predicts to answer incorrectly,0,94.52,C
-3,1,4,Always answers correctly,Always predicts to answer incorrectly,0,91.02,C
-3,1,5,Always answers correctly,Always predicts to answer incorrectly,0,91.09,C
-3,1,6,Always answers correctly,Always predicts to answer incorrectly,0,94.35,C
-3,1,7,Always answers correctly,Always predicts to answer incorrectly,0,96.36,C
-3,1,8,Always answers correctly,Always predicts to answer incorrectly,0,90.41,C
-3,1,9,Always answers correctly,Always predicts to answer incorrectly,0,93.18,C
-3,1,10,Always answers correctly,Always predicts to answer incorrectly,0,94.63,C
-4,1,1,Always answers correctly,Always predicts to answer correctly but occasionally predicts to answer partially correctly,2,90.68,C
-4,1,2,Always answers correctly,Always predicts to answer correctly but occasionally predicts to answer partially correctly,2,99.04,C
-4,1,3,Always answers correctly,Always predicts to answer correctly but occasionally predicts to answer partially correctly,2,92.73,C
-4,1,4,Always answers correctly,Always predicts to answer correctly but occasionally predicts to answer partially correctly,1,97.94,C
-4,1,5,Always answers correctly,Always predicts to answer correctly but occasionally predicts to answer partially correctly,1,92.51,C
-4,1,6,Always answers correctly,Always predicts to answer correctly but occasionally predicts to answer partially correctly,2,97.61,C
-4,1,7,Always answers correctly,Always predicts to answer correctly but occasionally predicts to answer partially correctly,2,95.27,C
-4,1,8,Always answers correctly,Always predicts to answer correctly but occasionally predicts to answer partially correctly,2,92.97,C
-4,1,9,Always answers correctly,Always predicts to answer correctly but occasionally predicts to answer partially correctly,2,90.83,C
-4,1,10,Always answers correctly,Always predicts to answer correctly but occasionally predicts to answer partially correctly,1,91.91,C
-5,1,1,Always answers correctly,Always predicts to answer correctly but occasionally predicts to answer incorrectly,0,92.48,C
-5,1,2,Always answers correctly,Always predicts to answer correctly but occasionally predicts to answer incorrectly,2,97.46,C
-5,1,3,Always answers correctly,Always predicts to answer correctly but occasionally predicts to answer incorrectly,0,98.17,C
-5,1,4,Always answers correctly,Always predicts to answer correctly but occasionally predicts to answer incorrectly,2,98.16,C
-5,1,5,Always answers correctly,Always predicts to answer correctly but occasionally predicts to answer incorrectly,2,91.52,C
-5,1,6,Always answers correctly,Always predicts to answer correctly but occasionally predicts to answer incorrectly,2,96.12,C
-5,1,7,Always answers correctly,Always predicts to answer correctly but occasionally predicts to answer incorrectly,2,91.1,C
-5,1,8,Always answers correctly,Always predicts to answer correctly but occasionally predicts to answer incorrectly,2,90.4,C
-5,1,9,Always answers correctly,Always predicts to answer correctly but occasionally predicts to answer incorrectly,2,97.93,C
-5,1,10,Always answers correctly,Always predicts to answer correctly but occasionally predicts to answer incorrectly,2,99.94,C
-6,1,1,Always answers correctly,Always predicts to answer partially correctly but occasionally predicts to answer correctly,2,97.25,C
-6,1,2,Always answers correctly,Always predicts to answer partially correctly but occasionally predicts to answer correctly,2,97.29,C
-6,1,3,Always answers correctly,Always predicts to answer partially correctly but occasionally predicts to answer correctly,1,95.68,C
-6,1,4,Always answers correctly,Always predicts to answer partially correctly but occasionally predicts to answer correctly,1,93.49,C
-6,1,5,Always answers correctly,Always predicts to answer partially correctly but occasionally predicts to answer correctly,1,94.05,C
-6,1,6,Always answers correctly,Always predicts to answer partially correctly but occasionally predicts to answer correctly,2,98.75,C
-6,1,7,Always answers correctly,Always predicts to answer partially correctly but occasionally predicts to answer correctly,1,99.5,C
-6,1,8,Always answers correctly,Always predicts to answer partially correctly but occasionally predicts to answer correctly,1,99.41,C
-6,1,9,Always answers correctly,Always predicts to answer partially correctly but occasionally predicts to answer correctly,1,94.77,C
-6,1,10,Always answers correctly,Always predicts to answer partially correctly but occasionally predicts to answer correctly,1,97.77,C
-7,1,1,Always answers correctly,Always predicts to answer partially correctly but occasionally predicts to answer incorrectly,1,95.72,C
-7,1,2,Always answers correctly,Always predicts to answer partially correctly but occasionally predicts to answer incorrectly,1,99.34,C
-7,1,3,Always answers correctly,Always predicts to answer partially correctly but occasionally predicts to answer incorrectly,1,99.32,C
-7,1,4,Always answers correctly,Always predicts to answer partially correctly but occasionally predicts to answer incorrectly,1,91.28,C
-7,1,5,Always answers correctly,Always predicts to answer partially correctly but occasionally predicts to answer incorrectly,1,93.56,C
-7,1,6,Always answers correctly,Always predicts to answer partially correctly but occasionally predicts to answer incorrectly,1,96.56,C
-7,1,7,Always answers correctly,Always predicts to answer partially correctly but occasionally predicts to answer incorrectly,1,94.88,C
-7,1,8,Always answers correctly,Always predicts to answer partially correctly but occasionally predicts to answer incorrectly,1,96.58,C
-7,1,9,Always answers correctly,Always predicts to answer partially correctly but occasionally predicts to answer incorrectly,1,91.69,C
-7,1,10,Always answers correctly,Always predicts to answer partially correctly but occasionally predicts to answer incorrectly,0,91.88,C
-8,1,1,Always answers correctly,Always predicts to answer incorrectly but occasionally predicts to answer correctly,0,95.61,C
-8,1,2,Always answers correctly,Always predicts to answer incorrectly but occasionally predicts to answer correctly,2,92.78,C
-8,1,3,Always answers correctly,Always predicts to answer incorrectly but occasionally predicts to answer correctly,2,99.48,C
-8,1,4,Always answers correctly,Always predicts to answer incorrectly but occasionally predicts to answer correctly,0,91.21,C
-8,1,5,Always answers correctly,Always predicts to answer incorrectly but occasionally predicts to answer correctly,0,93.9,C
-8,1,6,Always answers correctly,Always predicts to answer incorrectly but occasionally predicts to answer correctly,2,93.35,C
-8,1,7,Always answers correctly,Always predicts to answer incorrectly but occasionally predicts to answer correctly,0,95.23,C
-8,1,8,Always answers correctly,Always predicts to answer incorrectly but occasionally predicts to answer correctly,0,91.7,C
-8,1,9,Always answers correctly,Always predicts to answer incorrectly but occasionally predicts to answer correctly,2,90.32,C
-8,1,10,Always answers correctly,Always predicts to answer incorrectly but occasionally predicts to answer correctly,0,93.31,C
-9,1,1,Always answers correctly,Always predicts to answer incorrectly but occasionally predicts to answer partially correctly,1,95.25,C
-9,1,2,Always answers correctly,Always predicts to answer incorrectly but occasionally predicts to answer partially correctly,1,99.18,C
-9,1,3,Always answers correctly,Always predicts to answer incorrectly but occasionally predicts to answer partially correctly,0,94.2,C
-9,1,4,Always answers correctly,Always predicts to answer incorrectly but occasionally predicts to answer partially correctly,1,91.91,C
-9,1,5,Always answers correctly,Always predicts to answer incorrectly but occasionally predicts to answer partially correctly,1,98.05,C
-9,1,6,Always answers correctly,Always predicts to answer incorrectly but occasionally predicts to answer partially correctly,0,92.09,C
-9,1,7,Always answers correctly,Always predicts to answer incorrectly but occasionally predicts to answer partially correctly,1,99.89,C
-9,1,8,Always answers correctly,Always predicts to answer incorrectly but occasionally predicts to answer partially correctly,0,90.79,C
-9,1,9,Always answers correctly,Always predicts to answer incorrectly but occasionally predicts to answer partially correctly,0,93.58,C
-9,1,10,Always answers correctly,Always predicts to answer incorrectly but occasionally predicts to answer partially correctly,0,96.63,C
-10,1,1,Always answers incorrectly,Always predicts to answer correctly,2,60.18,INC
-10,1,2,Always answers incorrectly,Always predicts to answer correctly,2,45.01,INC
-10,1,3,Always answers incorrectly,Always predicts to answer correctly,2,62.35,INC
-10,1,4,Always answers incorrectly,Always predicts to answer correctly,2,14.3,INC
-10,1,5,Always answers incorrectly,Always predicts to answer correctly,2,10.45,INC
-10,1,6,Always answers incorrectly,Always predicts to answer correctly,2,46.62,INC
-10,1,7,Always answers incorrectly,Always predicts to answer correctly,2,19.53,INC
-10,1,8,Always answers incorrectly,Always predicts to answer correctly,2,9.31,INC
-10,1,9,Always answers incorrectly,Always predicts to answer correctly,2,49.64,INC
-10,1,10,Always answers incorrectly,Always predicts to answer correctly,2,43.01,INC
-11,1,1,Always answers incorrectly,Always predicts to answer partially correctly,1,49.41,INC
-11,1,2,Always answers incorrectly,Always predicts to answer partially correctly,1,35.64,INC
-11,1,3,Always answers incorrectly,Always predicts to answer partially correctly,1,3.49,INC
-11,1,4,Always answers incorrectly,Always predicts to answer partially correctly,1,12.55,INC
-11,1,5,Always answers incorrectly,Always predicts to answer partially correctly,1,28.66,INC
-11,1,6,Always answers incorrectly,Always predicts to answer partially correctly,1,35.06,INC
-11,1,7,Always answers incorrectly,Always predicts to answer partially correctly,1,31.88,INC
-11,1,8,Always answers incorrectly,Always predicts to answer partially correctly,1,16.85,INC
-11,1,9,Always answers incorrectly,Always predicts to answer partially correctly,1,5.3,INC
-11,1,10,Always answers incorrectly,Always predicts to answer partially correctly,1,20.02,INC
-12,1,1,Always answers incorrectly,Always predicts to answer incorrectly,0,38.56,INC
-12,1,2,Always answers incorrectly,Always predicts to answer incorrectly,0,19.94,INC
-12,1,3,Always answers incorrectly,Always predicts to answer incorrectly,0,17.08,INC
-12,1,4,Always answers incorrectly,Always predicts to answer incorrectly,0,39.25,INC
-12,1,5,Always answers incorrectly,Always predicts to answer incorrectly,0,59.22,INC
-12,1,6,Always answers incorrectly,Always predicts to answer incorrectly,0,52.46,INC
-12,1,7,Always answers incorrectly,Always predicts to answer incorrectly,0,30.03,INC
-12,1,8,Always answers incorrectly,Always predicts to answer incorrectly,0,27.76,INC
-12,1,9,Always answers incorrectly,Always predicts to answer incorrectly,0,6.43,INC
-12,1,10,Always answers incorrectly,Always predicts to answer incorrectly,0,28.7,INC
-13,1,1,Always answers incorrectly,Always predicts to answer correctly but occasionally predicts to answer partially correctly,2,57.58,INC
-13,1,2,Always answers incorrectly,Always predicts to answer correctly but occasionally predicts to answer partially correctly,2,53.75,INC
-13,1,3,Always answers incorrectly,Always predicts to answer correctly but occasionally predicts to answer partially correctly,1,25.52,INC
-13,1,4,Always answers incorrectly,Always predicts to answer correctly but occasionally predicts to answer partially correctly,2,13.37,INC
-13,1,5,Always answers incorrectly,Always predicts to answer correctly but occasionally predicts to answer partially correctly,2,35.16,INC
-13,1,6,Always answers incorrectly,Always predicts to answer correctly but occasionally predicts to answer partially correctly,1,26.22,INC
-13,1,7,Always answers incorrectly,Always predicts to answer correctly but occasionally predicts to answer partially correctly,2,37.8,INC
-13,1,8,Always answers incorrectly,Always predicts to answer correctly but occasionally predicts to answer partially correctly,2,38.16,INC
-13,1,9,Always answers incorrectly,Always predicts to answer correctly but occasionally predicts to answer partially correctly,2,34.9,INC
-13,1,10,Always answers incorrectly,Always predicts to answer correctly but occasionally predicts to answer partially correctly,1,56.88,INC
-14,1,1,Always answers incorrectly,Always predicts to answer correctly but occasionally predicts to answer incorrectly,2,10.02,INC
-14,1,2,Always answers incorrectly,Always predicts to answer correctly but occasionally predicts to answer incorrectly,2,60.62,INC
-14,1,3,Always answers incorrectly,Always predicts to answer correctly but occasionally predicts to answer incorrectly,2,4.11,INC
-14,1,4,Always answers incorrectly,Always predicts to answer correctly but occasionally predicts to answer incorrectly,2,14.74,INC
-14,1,5,Always answers incorrectly,Always predicts to answer correctly but occasionally predicts to answer incorrectly,0,18.34,INC
-14,1,6,Always answers incorrectly,Always predicts to answer correctly but occasionally predicts to answer incorrectly,2,57.17,INC
-14,1,7,Always answers incorrectly,Always predicts to answer correctly but occasionally predicts to answer incorrectly,2,29.93,INC
-14,1,8,Always answers incorrectly,Always predicts to answer correctly but occasionally predicts to answer incorrectly,2,45.79,INC
-14,1,9,Always answers incorrectly,Always predicts to answer correctly but occasionally predicts to answer incorrectly,2,33.87,INC
-14,1,10,Always answers incorrectly,Always predicts to answer correctly but occasionally predicts to answer incorrectly,2,4.11,INC
-15,1,1,Always answers incorrectly,Always predicts to answer partially correctly but occasionally predicts to answer correctly,2,65.16,INC
-15,1,2,Always answers incorrectly,Always predicts to answer partially correctly but occasionally predicts to answer correctly,1,61.02,INC
-15,1,3,Always answers incorrectly,Always predicts to answer partially correctly but occasionally predicts to answer correctly,1,44.49,INC
-15,1,4,Always answers incorrectly,Always predicts to answer partially correctly but occasionally predicts to answer correctly,1,27.46,INC
-15,1,5,Always answers incorrectly,Always predicts to answer partially correctly but occasionally predicts to answer correctly,1,68.11,INC
-15,1,6,Always answers incorrectly,Always predicts to answer partially correctly but occasionally predicts to answer correctly,1,23.49,INC
-15,1,7,Always answers incorrectly,Always predicts to answer partially correctly but occasionally predicts to answer correctly,1,34.73,INC
-15,1,8,Always answers incorrectly,Always predicts to answer partially correctly but occasionally predicts to answer correctly,1,27.32,INC
-15,1,9,Always answers incorrectly,Always predicts to answer partially correctly but occasionally predicts to answer correctly,1,9.28,INC
-15,1,10,Always answers incorrectly,Always predicts to answer partially correctly but occasionally predicts to answer correctly,1,22.14,INC
-16,1,1,Always answers incorrectly,Always predicts to answer partially correctly but occasionally predicts to answer incorrectly,1,67.31,INC
-16,1,2,Always answers incorrectly,Always predicts to answer partially correctly but occasionally predicts to answer incorrectly,1,31.71,INC
-16,1,3,Always answers incorrectly,Always predicts to answer partially correctly but occasionally predicts to answer incorrectly,1,0.15,INC
-16,1,4,Always answers incorrectly,Always predicts to answer partially correctly but occasionally predicts to answer incorrectly,1,43.68,INC
-16,1,5,Always answers incorrectly,Always predicts to answer partially correctly but occasionally predicts to answer incorrectly,1,30.7,INC
-16,1,6,Always answers incorrectly,Always predicts to answer partially correctly but occasionally predicts to answer incorrectly,1,67.09,INC
-16,1,7,Always answers incorrectly,Always predicts to answer partially correctly but occasionally predicts to answer incorrectly,1,29.6,INC
-16,1,8,Always answers incorrectly,Always predicts to answer partially correctly but occasionally predicts to answer incorrectly,0,16.65,INC
-16,1,9,Always answers incorrectly,Always predicts to answer partially correctly but occasionally predicts to answer incorrectly,1,1.11,INC
-16,1,10,Always answers incorrectly,Always predicts to answer partially correctly but occasionally predicts to answer incorrectly,1,54.33,INC
-17,1,1,Always answers incorrectly,Always predicts to answer incorrectly but occasionally predicts to answer correctly,0,60.35,INC
-17,1,2,Always answers incorrectly,Always predicts to answer incorrectly but occasionally predicts to answer correctly,0,5.7,INC
-17,1,3,Always answers incorrectly,Always predicts to answer incorrectly but occasionally predicts to answer correctly,0,52.98,INC
-17,1,4,Always answers incorrectly,Always predicts to answer incorrectly but occasionally predicts to answer correctly,2,36.96,INC
-17,1,5,Always answers incorrectly,Always predicts to answer incorrectly but occasionally predicts to answer correctly,0,29.96,INC
-17,1,6,Always answers incorrectly,Always predicts to answer incorrectly but occasionally predicts to answer correctly,0,7.1,INC
-17,1,7,Always answers incorrectly,Always predicts to answer incorrectly but occasionally predicts to answer correctly,0,65.58,INC
-17,1,8,Always answers incorrectly,Always predicts to answer incorrectly but occasionally predicts to answer correctly,2,8.78,INC
-17,1,9,Always answers incorrectly,Always predicts to answer incorrectly but occasionally predicts to answer correctly,0,5.8,INC
-17,1,10,Always answers incorrectly,Always predicts to answer incorrectly but occasionally predicts to answer correctly,2,54.39,INC
-18,1,1,Always answers incorrectly,Always predicts to answer incorrectly but occasionally predicts to answer partially correctly,0,0.34,INC
-18,1,2,Always answers incorrectly,Always predicts to answer incorrectly but occasionally predicts to answer partially correctly,1,10.86,INC
-18,1,3,Always answers incorrectly,Always predicts to answer incorrectly but occasionally predicts to answer partially correctly,1,21.38,INC
-18,1,4,Always answers incorrectly,Always predicts to answer incorrectly but occasionally predicts to answer partially correctly,0,54.55,INC
-18,1,5,Always answers incorrectly,Always predicts to answer incorrectly but occasionally predicts to answer partially correctly,1,17.89,INC
-18,1,6,Always answers incorrectly,Always predicts to answer incorrectly but occasionally predicts to answer partially correctly,0,68.41,INC
-18,1,7,Always answers incorrectly,Always predicts to answer incorrectly but occasionally predicts to answer partially correctly,0,51.15,INC
-18,1,8,Always answers incorrectly,Always predicts to answer incorrectly but occasionally predicts to answer partially correctly,0,43.7,INC
-18,1,9,Always answers incorrectly,Always predicts to answer incorrectly but occasionally predicts to answer partially correctly,0,60.29,INC
-18,1,10,Always answers incorrectly,Always predicts to answer incorrectly but occasionally predicts to answer partially correctly,0,46.64,INC
-19,1,1,Occasionally answers correctly,Always predicts to answer correctly,2,2.0,INC
-19,1,2,Occasionally answers correctly,Always predicts to answer correctly,2,44.85,INC
-19,1,3,Occasionally answers correctly,Always predicts to answer correctly,2,24.13,INC
-19,1,4,Occasionally answers correctly,Always predicts to answer correctly,2,47.25,INC
-19,1,5,Occasionally answers correctly,Always predicts to answer correctly,2,68.59,INC
-19,1,6,Occasionally answers correctly,Always predicts to answer correctly,2,64.82,INC
-19,1,7,Occasionally answers correctly,Always predicts to answer correctly,2,6.47,INC
-19,1,8,Occasionally answers correctly,Always predicts to answer correctly,2,90.95,C
-19,1,9,Occasionally answers correctly,Always predicts to answer correctly,2,45.99,INC
-19,1,10,Occasionally answers correctly,Always predicts to answer correctly,2,13.49,INC
-20,1,1,Occasionally answers correctly,Always predicts to answer partially correctly,1,98.01,C
-20,1,2,Occasionally answers correctly,Always predicts to answer partially correctly,1,63.16,INC
-20,1,3,Occasionally answers correctly,Always predicts to answer partially correctly,1,22.97,INC
-20,1,4,Occasionally answers correctly,Always predicts to answer partially correctly,1,97.47,C
-20,1,5,Occasionally answers correctly,Always predicts to answer partially correctly,1,36.24,INC
-20,1,6,Occasionally answers correctly,Always predicts to answer partially correctly,1,63.91,INC
-20,1,7,Occasionally answers correctly,Always predicts to answer partially correctly,1,91.47,C
-20,1,8,Occasionally answers correctly,Always predicts to answer partially correctly,1,52.44,INC
-20,1,9,Occasionally answers correctly,Always predicts to answer partially correctly,1,61.54,INC
-20,1,10,Occasionally answers correctly,Always predicts to answer partially correctly,1,54.5,INC
-21,1,1,Occasionally answers correctly,Always predicts to answer incorrectly,0,99.57,C
-21,1,2,Occasionally answers correctly,Always predicts to answer incorrectly,0,56.12,INC
-21,1,3,Occasionally answers correctly,Always predicts to answer incorrectly,0,6.97,INC
-21,1,4,Occasionally answers correctly,Always predicts to answer incorrectly,0,63.81,INC
-21,1,5,Occasionally answers correctly,Always predicts to answer incorrectly,0,47.66,INC
-21,1,6,Occasionally answers correctly,Always predicts to answer incorrectly,0,5.24,INC
-21,1,7,Occasionally answers correctly,Always predicts to answer incorrectly,0,51.18,INC
-21,1,8,Occasionally answers correctly,Always predicts to answer incorrectly,0,91.73,C
-21,1,9,Occasionally answers correctly,Always predicts to answer incorrectly,0,5.37,INC
-21,1,10,Occasionally answers correctly,Always predicts to answer incorrectly,0,94.98,C
-22,1,1,Occasionally answers correctly,Always predicts to answer correctly but occasionally predicts to answer partially correctly,2,25.41,INC
-22,1,2,Occasionally answers correctly,Always predicts to answer correctly but occasionally predicts to answer partially correctly,2,1.28,INC
-22,1,3,Occasionally answers correctly,Always predicts to answer correctly but occasionally predicts to answer partially correctly,2,23.81,INC
-22,1,4,Occasionally answers correctly,Always predicts to answer correctly but occasionally predicts to answer partially correctly,2,44.53,INC
-22,1,5,Occasionally answers correctly,Always predicts to answer correctly but occasionally predicts to answer partially correctly,2,38.91,INC
-22,1,6,Occasionally answers correctly,Always predicts to answer correctly but occasionally predicts to answer partially correctly,1,59.16,INC
-22,1,7,Occasionally answers correctly,Always predicts to answer correctly but occasionally predicts to answer partially correctly,2,49.58,INC
-22,1,8,Occasionally answers correctly,Always predicts to answer correctly but occasionally predicts to answer partially correctly,2,91.65,C
-22,1,9,Occasionally answers correctly,Always predicts to answer correctly but occasionally predicts to answer partially correctly,1,96.63,C
-22,1,10,Occasionally answers correctly,Always predicts to answer correctly but occasionally predicts to answer partially correctly,2,68.02,INC
-23,1,1,Occasionally answers correctly,Always predicts to answer correctly but occasionally predicts to answer incorrectly,0,11.93,INC
-23,1,2,Occasionally answers correctly,Always predicts to answer correctly but occasionally predicts to answer incorrectly,2,25.64,INC
-23,1,3,Occasionally answers correctly,Always predicts to answer correctly but occasionally predicts to answer incorrectly,0,58.15,INC
-23,1,4,Occasionally answers correctly,Always predicts to answer correctly but occasionally predicts to answer incorrectly,2,97.27,C
-23,1,5,Occasionally answers correctly,Always predicts to answer correctly but occasionally predicts to answer incorrectly,2,19.58,INC
-23,1,6,Occasionally answers correctly,Always predicts to answer correctly but occasionally predicts to answer incorrectly,2,14.72,INC
-23,1,7,Occasionally answers correctly,Always predicts to answer correctly but occasionally predicts to answer incorrectly,0,95.88,C
-23,1,8,Occasionally answers correctly,Always predicts to answer correctly but occasionally predicts to answer incorrectly,2,59.87,INC
-23,1,9,Occasionally answers correctly,Always predicts to answer correctly but occasionally predicts to answer incorrectly,2,28.79,INC
-23,1,10,Occasionally answers correctly,Always predicts to answer correctly but occasionally predicts to answer incorrectly,2,99.52,C
-24,1,1,Occasionally answers correctly,Always predicts to answer partially correctly but occasionally predicts to answer correctly,1,36.01,INC
-24,1,2,Occasionally answers correctly,Always predicts to answer partially correctly but occasionally predicts to answer correctly,2,58.69,INC
-24,1,3,Occasionally answers correctly,Always predicts to answer partially correctly but occasionally predicts to answer correctly,1,58.44,INC
-24,1,4,Occasionally answers correctly,Always predicts to answer partially correctly but occasionally predicts to answer correctly,1,57.74,INC
-24,1,5,Occasionally answers correctly,Always predicts to answer partially correctly but occasionally predicts to answer correctly,1,24.9,INC
-24,1,6,Occasionally answers correctly,Always predicts to answer partially correctly but occasionally predicts to answer correctly,2,14.87,INC
-24,1,7,Occasionally answers correctly,Always predicts to answer partially correctly but occasionally predicts to answer correctly,1,11.2,INC
-24,1,8,Occasionally answers correctly,Always predicts to answer partially correctly but occasionally predicts to answer correctly,1,97.05,C
-24,1,9,Occasionally answers correctly,Always predicts to answer partially correctly but occasionally predicts to answer correctly,1,60.56,INC
-24,1,10,Occasionally answers correctly,Always predicts to answer partially correctly but occasionally predicts to answer correctly,1,93.36,C
-25,1,1,Occasionally answers correctly,Always predicts to answer partially correctly but occasionally predicts to answer incorrectly,1,61.11,INC
-25,1,2,Occasionally answers correctly,Always predicts to answer partially correctly but occasionally predicts to answer incorrectly,0,62.89,INC
-25,1,3,Occasionally answers correctly,Always predicts to answer partially correctly but occasionally predicts to answer incorrectly,0,54.2,INC
-25,1,4,Occasionally answers correctly,Always predicts to answer partially correctly but occasionally predicts to answer incorrectly,1,22.92,INC
-25,1,5,Occasionally answers correctly,Always predicts to answer partially correctly but occasionally predicts to answer incorrectly,1,61.02,INC
-25,1,6,Occasionally answers correctly,Always predicts to answer partially correctly but occasionally predicts to answer incorrectly,0,8.79,INC
-25,1,7,Occasionally answers correctly,Always predicts to answer partially correctly but occasionally predicts to answer incorrectly,1,58.61,INC
-25,1,8,Occasionally answers correctly,Always predicts to answer partially correctly but occasionally predicts to answer incorrectly,1,97.25,C
-25,1,9,Occasionally answers correctly,Always predicts to answer partially correctly but occasionally predicts to answer incorrectly,1,66.0,INC
-25,1,10,Occasionally answers correctly,Always predicts to answer partially correctly but occasionally predicts to answer incorrectly,1,35.77,INC
-26,1,1,Occasionally answers correctly,Always predicts to answer incorrectly but occasionally predicts to answer correctly,0,22.89,INC
-26,1,2,Occasionally answers correctly,Always predicts to answer incorrectly but occasionally predicts to answer correctly,2,90.55,C
-26,1,3,Occasionally answers correctly,Always predicts to answer incorrectly but occasionally predicts to answer correctly,0,61.16,INC
-26,1,4,Occasionally answers correctly,Always predicts to answer incorrectly but occasionally predicts to answer correctly,0,91.11,C
-26,1,5,Occasionally answers correctly,Always predicts to answer incorrectly but occasionally predicts to answer correctly,2,19.98,INC
-26,1,6,Occasionally answers correctly,Always predicts to answer incorrectly but occasionally predicts to answer correctly,0,11.52,INC
-26,1,7,Occasionally answers correctly,Always predicts to answer incorrectly but occasionally predicts to answer correctly,0,22.35,INC
-26,1,8,Occasionally answers correctly,Always predicts to answer incorrectly but occasionally predicts to answer correctly,0,43.23,INC
-26,1,9,Occasionally answers correctly,Always predicts to answer incorrectly but occasionally predicts to answer correctly,0,92.0,C
-26,1,10,Occasionally answers correctly,Always predicts to answer incorrectly but occasionally predicts to answer correctly,2,92.6,C
-27,1,1,Occasionally answers correctly,Always predicts to answer incorrectly but occasionally predicts to answer partially correctly,1,4.15,INC
-27,1,2,Occasionally answers correctly,Always predicts to answer incorrectly but occasionally predicts to answer partially correctly,1,9.83,INC
-27,1,3,Occasionally answers correctly,Always predicts to answer incorrectly but occasionally predicts to answer partially correctly,1,53.88,INC
-27,1,4,Occasionally answers correctly,Always predicts to answer incorrectly but occasionally predicts to answer partially correctly,1,65.36,INC
-27,1,5,Occasionally answers correctly,Always predicts to answer incorrectly but occasionally predicts to answer partially correctly,0,31.64,INC
-27,1,6,Occasionally answers correctly,Always predicts to answer incorrectly but occasionally predicts to answer partially correctly,0,90.21,C
-27,1,7,Occasionally answers correctly,Always predicts to answer incorrectly but occasionally predicts to answer partially correctly,1,11.82,INC
-27,1,8,Occasionally answers correctly,Always predicts to answer incorrectly but occasionally predicts to answer partially correctly,0,20.4,INC
-27,1,9,Occasionally answers correctly,Always predicts to answer incorrectly but occasionally predicts to answer partially correctly,0,23.89,INC
-27,1,10,Occasionally answers correctly,Always predicts to answer incorrectly but occasionally predicts to answer partially correctly,1,55.48,INC
-28,1,1,Occasionally answers incorrectly,Always predicts to answer correctly,2,92.75,C
-28,1,2,Occasionally answers incorrectly,Always predicts to answer correctly,2,96.74,C
-28,1,3,Occasionally answers incorrectly,Always predicts to answer correctly,2,96.69,C
-28,1,4,Occasionally answers incorrectly,Always predicts to answer correctly,2,96.35,C
-28,1,5,Occasionally answers incorrectly,Always predicts to answer correctly,2,93.03,C
-28,1,6,Occasionally answers incorrectly,Always predicts to answer correctly,2,95.57,C
-28,1,7,Occasionally answers incorrectly,Always predicts to answer correctly,2,92.46,C
-28,1,8,Occasionally answers incorrectly,Always predicts to answer correctly,2,95.05,C
-28,1,9,Occasionally answers incorrectly,Always predicts to answer correctly,2,94.3,C
-28,1,10,Occasionally answers incorrectly,Always predicts to answer correctly,2,45.4,INC
-29,1,1,Occasionally answers incorrectly,Always predicts to answer partially correctly,1,46.71,INC
-29,1,2,Occasionally answers incorrectly,Always predicts to answer partially correctly,1,90.73,C
-29,1,3,Occasionally answers incorrectly,Always predicts to answer partially correctly,1,52.88,INC
-29,1,4,Occasionally answers incorrectly,Always predicts to answer partially correctly,1,96.8,C
-29,1,5,Occasionally answers incorrectly,Always predicts to answer partially correctly,1,99.47,C
-29,1,6,Occasionally answers incorrectly,Always predicts to answer partially correctly,1,93.38,C
-29,1,7,Occasionally answers incorrectly,Always predicts to answer partially correctly,1,99.9,C
-29,1,8,Occasionally answers incorrectly,Always predicts to answer partially correctly,1,51.55,INC
-29,1,9,Occasionally answers incorrectly,Always predicts to answer partially correctly,1,35.28,INC
-29,1,10,Occasionally answers incorrectly,Always predicts to answer partially correctly,1,97.14,C
-30,1,1,Occasionally answers incorrectly,Always predicts to answer incorrectly,0,96.29,C
-30,1,2,Occasionally answers incorrectly,Always predicts to answer incorrectly,0,21.25,INC
-30,1,3,Occasionally answers incorrectly,Always predicts to answer incorrectly,0,93.22,C
-30,1,4,Occasionally answers incorrectly,Always predicts to answer incorrectly,0,90.9,C
-30,1,5,Occasionally answers incorrectly,Always predicts to answer incorrectly,0,97.6,C
-30,1,6,Occasionally answers incorrectly,Always predicts to answer incorrectly,0,15.12,INC
-30,1,7,Occasionally answers incorrectly,Always predicts to answer incorrectly,0,5.85,INC
-30,1,8,Occasionally answers incorrectly,Always predicts to answer incorrectly,0,96.74,C
-30,1,9,Occasionally answers incorrectly,Always predicts to answer incorrectly,0,97.24,C
-30,1,10,Occasionally answers incorrectly,Always predicts to answer incorrectly,0,98.65,C
-31,1,1,Occasionally answers incorrectly,Always predicts to answer correctly but occasionally predicts to answer partially correctly,2,97.0,C
-31,1,2,Occasionally answers incorrectly,Always predicts to answer correctly but occasionally predicts to answer partially correctly,1,99.6,C
-31,1,3,Occasionally answers incorrectly,Always predicts to answer correctly but occasionally predicts to answer partially correctly,1,43.19,INC
-31,1,4,Occasionally answers incorrectly,Always predicts to answer correctly but occasionally predicts to answer partially correctly,2,90.99,C
-31,1,5,Occasionally answers incorrectly,Always predicts to answer correctly but occasionally predicts to answer partially correctly,1,21.59,INC
-31,1,6,Occasionally answers incorrectly,Always predicts to answer correctly but occasionally predicts to answer partially correctly,2,32.8,INC
-31,1,7,Occasionally answers incorrectly,Always predicts to answer correctly but occasionally predicts to answer partially correctly,2,93.94,C
-31,1,8,Occasionally answers incorrectly,Always predicts to answer correctly but occasionally predicts to answer partially correctly,2,97.33,C
-31,1,9,Occasionally answers incorrectly,Always predicts to answer correctly but occasionally predicts to answer partially correctly,2,97.45,C
-31,1,10,Occasionally answers incorrectly,Always predicts to answer correctly but occasionally predicts to answer partially correctly,2,90.28,C
-32,1,1,Occasionally answers incorrectly,Always predicts to answer correctly but occasionally predicts to answer incorrectly,2,97.81,C
-32,1,2,Occasionally answers incorrectly,Always predicts to answer correctly but occasionally predicts to answer incorrectly,2,98.75,C
-32,1,3,Occasionally answers incorrectly,Always predicts to answer correctly but occasionally predicts to answer incorrectly,0,40.63,INC
-32,1,4,Occasionally answers incorrectly,Always predicts to answer correctly but occasionally predicts to answer incorrectly,2,37.13,INC
-32,1,5,Occasionally answers incorrectly,Always predicts to answer correctly but occasionally predicts to answer incorrectly,0,98.67,C
-32,1,6,Occasionally answers incorrectly,Always predicts to answer correctly but occasionally predicts to answer incorrectly,0,19.07,INC
-32,1,7,Occasionally answers incorrectly,Always predicts to answer correctly but occasionally predicts to answer incorrectly,0,98.2,C
-32,1,8,Occasionally answers incorrectly,Always predicts to answer correctly but occasionally predicts to answer incorrectly,0,18.91,INC
-32,1,9,Occasionally answers incorrectly,Always predicts to answer correctly but occasionally predicts to answer incorrectly,2,13.28,INC
-32,1,10,Occasionally answers incorrectly,Always predicts to answer correctly but occasionally predicts to answer incorrectly,0,98.26,C
-33,1,1,Occasionally answers incorrectly,Always predicts to answer partially correctly but occasionally predicts to answer correctly,2,99.6,C
-33,1,2,Occasionally answers incorrectly,Always predicts to answer partially correctly but occasionally predicts to answer correctly,1,52.09,INC
-33,1,3,Occasionally answers incorrectly,Always predicts to answer partially correctly but occasionally predicts to answer correctly,2,5.42,INC
-33,1,4,Occasionally answers incorrectly,Always predicts to answer partially correctly but occasionally predicts to answer correctly,1,97.7,C
-33,1,5,Occasionally answers incorrectly,Always predicts to answer partially correctly but occasionally predicts to answer correctly,1,90.99,C
-33,1,6,Occasionally answers incorrectly,Always predicts to answer partially correctly but occasionally predicts to answer correctly,2,31.37,INC
-33,1,7,Occasionally answers incorrectly,Always predicts to answer partially correctly but occasionally predicts to answer correctly,1,96.37,C
-33,1,8,Occasionally answers incorrectly,Always predicts to answer partially correctly but occasionally predicts to answer correctly,2,90.01,C
-33,1,9,Occasionally answers incorrectly,Always predicts to answer partially correctly but occasionally predicts to answer correctly,2,92.07,C
-33,1,10,Occasionally answers incorrectly,Always predicts to answer partially correctly but occasionally predicts to answer correctly,1,29.51,INC
-34,1,1,Occasionally answers incorrectly,Always predicts to answer partially correctly but occasionally predicts to answer incorrectly,0,24.53,INC
-34,1,2,Occasionally answers incorrectly,Always predicts to answer partially correctly but occasionally predicts to answer incorrectly,1,98.9,C
-34,1,3,Occasionally answers incorrectly,Always predicts to answer partially correctly but occasionally predicts to answer incorrectly,1,52.85,INC
-34,1,4,Occasionally answers incorrectly,Always predicts to answer partially correctly but occasionally predicts to answer incorrectly,1,96.45,C
-34,1,5,Occasionally answers incorrectly,Always predicts to answer partially correctly but occasionally predicts to answer incorrectly,0,22.26,INC
-34,1,6,Occasionally answers incorrectly,Always predicts to answer partially correctly but occasionally predicts to answer incorrectly,1,93.85,C
-34,1,7,Occasionally answers incorrectly,Always predicts to answer partially correctly but occasionally predicts to answer incorrectly,1,95.7,C
-34,1,8,Occasionally answers incorrectly,Always predicts to answer partially correctly but occasionally predicts to answer incorrectly,0,12.94,INC
-34,1,9,Occasionally answers incorrectly,Always predicts to answer partially correctly but occasionally predicts to answer incorrectly,1,95.17,C
-34,1,10,Occasionally answers incorrectly,Always predicts to answer partially correctly but occasionally predicts to answer incorrectly,1,96.49,C
-35,1,1,Occasionally answers incorrectly,Always predicts to answer incorrectly but occasionally predicts to answer correctly,0,92.48,C
-35,1,2,Occasionally answers incorrectly,Always predicts to answer incorrectly but occasionally predicts to answer correctly,2,29.15,INC
-35,1,3,Occasionally answers incorrectly,Always predicts to answer incorrectly but occasionally predicts to answer correctly,0,25.51,INC
-35,1,4,Occasionally answers incorrectly,Always predicts to answer incorrectly but occasionally predicts to answer correctly,0,97.69,C
-35,1,5,Occasionally answers incorrectly,Always predicts to answer incorrectly but occasionally predicts to answer correctly,0,93.75,C
-35,1,6,Occasionally answers incorrectly,Always predicts to answer incorrectly but occasionally predicts to answer correctly,0,16.12,INC
-35,1,7,Occasionally answers incorrectly,Always predicts to answer incorrectly but occasionally predicts to answer correctly,2,98.35,C
-35,1,8,Occasionally answers incorrectly,Always predicts to answer incorrectly but occasionally predicts to answer correctly,0,98.17,C
-35,1,9,Occasionally answers incorrectly,Always predicts to answer incorrectly but occasionally predicts to answer correctly,2,94.69,C
-35,1,10,Occasionally answers incorrectly,Always predicts to answer incorrectly but occasionally predicts to answer correctly,0,98.85,C
-36,1,1,Occasionally answers incorrectly,Always predicts to answer incorrectly but occasionally predicts to answer partially correctly,0,99.64,C
-36,1,2,Occasionally answers incorrectly,Always predicts to answer incorrectly but occasionally predicts to answer partially correctly,0,96.81,C
-36,1,3,Occasionally answers incorrectly,Always predicts to answer incorrectly but occasionally predicts to answer partially correctly,0,94.87,C
-36,1,4,Occasionally answers incorrectly,Always predicts to answer incorrectly but occasionally predicts to answer partially correctly,0,93.13,C
-36,1,5,Occasionally answers incorrectly,Always predicts to answer incorrectly but occasionally predicts to answer partially correctly,1,48.33,INC
-36,1,6,Occasionally answers incorrectly,Always predicts to answer incorrectly but occasionally predicts to answer partially correctly,0,92.62,C
-36,1,7,Occasionally answers incorrectly,Always predicts to answer incorrectly but occasionally predicts to answer partially correctly,0,31.03,INC
-36,1,8,Occasionally answers incorrectly,Always predicts to answer incorrectly but occasionally predicts to answer partially correctly,0,92.55,C
-36,1,9,Occasionally answers incorrectly,Always predicts to answer incorrectly but occasionally predicts to answer partially correctly,0,55.77,INC
-36,1,10,Occasionally answers incorrectly,Always predicts to answer incorrectly but occasionally predicts to answer partially correctly,0,93.85,C
+1,1,1,Always correct,Always confident,2,99.2,1
+1,1,2,Always correct,Always confident,2,90.94,1
+1,1,3,Always correct,Always confident,2,94.9,1
+1,1,4,Always correct,Always confident,2,97.36,1
+1,1,5,Always correct,Always confident,2,92.64,1
+1,1,6,Always correct,Always confident,2,91.48,1
+1,1,7,Always correct,Always confident,2,92.14,1
+1,1,8,Always correct,Always confident,2,92.02,1
+1,1,9,Always correct,Always confident,2,93.34,1
+1,1,10,Always correct,Always confident,2,98.28,1
+2,1,1,Always correct,Always partially confident,1,98.92,1
+2,1,2,Always correct,Always partially confident,1,94.78,1
+2,1,3,Always correct,Always partially confident,1,96.6,1
+2,1,4,Always correct,Always partially confident,1,94.73,1
+2,1,5,Always correct,Always partially confident,1,96.06,1
+2,1,6,Always correct,Always partially confident,1,98.48,1
+2,1,7,Always correct,Always partially confident,1,94.01,1
+2,1,8,Always correct,Always partially confident,1,92.9,1
+2,1,9,Always correct,Always partially confident,1,96.85,1
+2,1,10,Always correct,Always partially confident,1,96.1,1
+3,1,1,Always correct,Always not confident,0,90.34,1
+3,1,2,Always correct,Always not confident,0,97.65,1
+3,1,3,Always correct,Always not confident,0,90.44,1
+3,1,4,Always correct,Always not confident,0,90.02,1
+3,1,5,Always correct,Always not confident,0,95.96,1
+3,1,6,Always correct,Always not confident,0,95.84,1
+3,1,7,Always correct,Always not confident,0,91.02,1
+3,1,8,Always correct,Always not confident,0,94.41,1
+3,1,9,Always correct,Always not confident,0,96.73,1
+3,1,10,Always correct,Always not confident,0,96.39,1
+4,1,1,Always correct,Always confident but occasionally partially confident,2,90.08,1
+4,1,2,Always correct,Always confident but occasionally partially confident,2,99.72,1
+4,1,3,Always correct,Always confident but occasionally partially confident,1,94.43,1
+4,1,4,Always correct,Always confident but occasionally partially confident,1,96.85,1
+4,1,5,Always correct,Always confident but occasionally partially confident,2,98.66,1
+4,1,6,Always correct,Always confident but occasionally partially confident,2,98.58,1
+4,1,7,Always correct,Always confident but occasionally partially confident,2,97.03,1
+4,1,8,Always correct,Always confident but occasionally partially confident,1,90.06,1
+4,1,9,Always correct,Always confident but occasionally partially confident,2,93.75,1
+4,1,10,Always correct,Always confident but occasionally partially confident,1,98.43,1
+5,1,1,Always correct,Always confident but occasionally not confident,2,92.45,1
+5,1,2,Always correct,Always confident but occasionally not confident,2,94.61,1
+5,1,3,Always correct,Always confident but occasionally not confident,0,96.67,1
+5,1,4,Always correct,Always confident but occasionally not confident,0,91.63,1
+5,1,5,Always correct,Always confident but occasionally not confident,2,93.66,1
+5,1,6,Always correct,Always confident but occasionally not confident,2,95.03,1
+5,1,7,Always correct,Always confident but occasionally not confident,2,95.05,1
+5,1,8,Always correct,Always confident but occasionally not confident,0,96.69,1
+5,1,9,Always correct,Always confident but occasionally not confident,2,90.95,1
+5,1,10,Always correct,Always confident but occasionally not confident,2,91.93,1
+6,1,1,Always correct,Always partially confident but occasionally confident,1,94.2,1
+6,1,2,Always correct,Always partially confident but occasionally confident,1,98.08,1
+6,1,3,Always correct,Always partially confident but occasionally confident,2,99.48,1
+6,1,4,Always correct,Always partially confident but occasionally confident,1,90.48,1
+6,1,5,Always correct,Always partially confident but occasionally confident,2,93.98,1
+6,1,6,Always correct,Always partially confident but occasionally confident,1,99.82,1
+6,1,7,Always correct,Always partially confident but occasionally confident,1,94.08,1
+6,1,8,Always correct,Always partially confident but occasionally confident,1,91.85,1
+6,1,9,Always correct,Always partially confident but occasionally confident,1,92.61,1
+6,1,10,Always correct,Always partially confident but occasionally confident,1,92.04,1
+7,1,1,Always correct,Always partially confident but occasionally not confident,0,91.21,1
+7,1,2,Always correct,Always partially confident but occasionally not confident,1,93.98,1
+7,1,3,Always correct,Always partially confident but occasionally not confident,1,95.09,1
+7,1,4,Always correct,Always partially confident but occasionally not confident,0,95.43,1
+7,1,5,Always correct,Always partially confident but occasionally not confident,1,90.01,1
+7,1,6,Always correct,Always partially confident but occasionally not confident,1,95.75,1
+7,1,7,Always correct,Always partially confident but occasionally not confident,0,99.47,1
+7,1,8,Always correct,Always partially confident but occasionally not confident,1,98.79,1
+7,1,9,Always correct,Always partially confident but occasionally not confident,0,96.94,1
+7,1,10,Always correct,Always partially confident but occasionally not confident,1,90.62,1
+8,1,1,Always correct,Always not confident but occasionally confident,2,97.71,1
+8,1,2,Always correct,Always not confident but occasionally confident,2,91.53,1
+8,1,3,Always correct,Always not confident but occasionally confident,0,90.74,1
+8,1,4,Always correct,Always not confident but occasionally confident,0,91.97,1
+8,1,5,Always correct,Always not confident but occasionally confident,2,94.52,1
+8,1,6,Always correct,Always not confident but occasionally confident,2,90.05,1
+8,1,7,Always correct,Always not confident but occasionally confident,0,99.5,1
+8,1,8,Always correct,Always not confident but occasionally confident,0,90.24,1
+8,1,9,Always correct,Always not confident but occasionally confident,0,97.44,1
+8,1,10,Always correct,Always not confident but occasionally confident,0,99.66,1
+9,1,1,Always correct,Always not confident but occasionally partially confident,0,99.03,1
+9,1,2,Always correct,Always not confident but occasionally partially confident,0,97.44,1
+9,1,3,Always correct,Always not confident but occasionally partially confident,0,99.99,1
+9,1,4,Always correct,Always not confident but occasionally partially confident,0,99.23,1
+9,1,5,Always correct,Always not confident but occasionally partially confident,0,98.73,1
+9,1,6,Always correct,Always not confident but occasionally partially confident,0,97.51,1
+9,1,7,Always correct,Always not confident but occasionally partially confident,0,94.04,1
+9,1,8,Always correct,Always not confident but occasionally partially confident,1,97.28,1
+9,1,9,Always correct,Always not confident but occasionally partially confident,0,98.01,1
+9,1,10,Always correct,Always not confident but occasionally partially confident,0,90.73,1
+10,1,1,Always incorrect,Always confident,2,26.71,0
+10,1,2,Always incorrect,Always confident,2,67.12,0
+10,1,3,Always incorrect,Always confident,2,31.03,0
+10,1,4,Always incorrect,Always confident,2,42.88,0
+10,1,5,Always incorrect,Always confident,2,50.21,0
+10,1,6,Always incorrect,Always confident,2,68.55,0
+10,1,7,Always incorrect,Always confident,2,1.94,0
+10,1,8,Always incorrect,Always confident,2,37.08,0
+10,1,9,Always incorrect,Always confident,2,29.66,0
+10,1,10,Always incorrect,Always confident,2,32.18,0
+11,1,1,Always incorrect,Always partially confident,1,4.0,0
+11,1,2,Always incorrect,Always partially confident,1,52.2,0
+11,1,3,Always incorrect,Always partially confident,1,12.46,0
+11,1,4,Always incorrect,Always partially confident,1,46.01,0
+11,1,5,Always incorrect,Always partially confident,1,62.71,0
+11,1,6,Always incorrect,Always partially confident,1,48.29,0
+11,1,7,Always incorrect,Always partially confident,1,43.5,0
+11,1,8,Always incorrect,Always partially confident,1,50.33,0
+11,1,9,Always incorrect,Always partially confident,1,8.01,0
+11,1,10,Always incorrect,Always partially confident,1,62.58,0
+12,1,1,Always incorrect,Always not confident,0,13.17,0
+12,1,2,Always incorrect,Always not confident,0,54.47,0
+12,1,3,Always incorrect,Always not confident,0,45.34,0
+12,1,4,Always incorrect,Always not confident,0,61.76,0
+12,1,5,Always incorrect,Always not confident,0,54.92,0
+12,1,6,Always incorrect,Always not confident,0,67.48,0
+12,1,7,Always incorrect,Always not confident,0,57.53,0
+12,1,8,Always incorrect,Always not confident,0,20.75,0
+12,1,9,Always incorrect,Always not confident,0,6.96,0
+12,1,10,Always incorrect,Always not confident,0,50.96,0
+13,1,1,Always incorrect,Always confident but occasionally partially confident,2,2.1,0
+13,1,2,Always incorrect,Always confident but occasionally partially confident,2,19.83,0
+13,1,3,Always incorrect,Always confident but occasionally partially confident,1,15.66,0
+13,1,4,Always incorrect,Always confident but occasionally partially confident,2,18.33,0
+13,1,5,Always incorrect,Always confident but occasionally partially confident,2,49.09,0
+13,1,6,Always incorrect,Always confident but occasionally partially confident,2,28.63,0
+13,1,7,Always incorrect,Always confident but occasionally partially confident,2,48.39,0
+13,1,8,Always incorrect,Always confident but occasionally partially confident,2,23.74,0
+13,1,9,Always incorrect,Always confident but occasionally partially confident,1,39.95,0
+13,1,10,Always incorrect,Always confident but occasionally partially confident,2,58.0,0
+14,1,1,Always incorrect,Always confident but occasionally not confident,0,65.83,0
+14,1,2,Always incorrect,Always confident but occasionally not confident,0,20.77,0
+14,1,3,Always incorrect,Always confident but occasionally not confident,0,34.95,0
+14,1,4,Always incorrect,Always confident but occasionally not confident,2,4.84,0
+14,1,5,Always incorrect,Always confident but occasionally not confident,2,49.36,0
+14,1,6,Always incorrect,Always confident but occasionally not confident,2,3.2,0
+14,1,7,Always incorrect,Always confident but occasionally not confident,0,48.57,0
+14,1,8,Always incorrect,Always confident but occasionally not confident,0,66.38,0
+14,1,9,Always incorrect,Always confident but occasionally not confident,2,28.64,0
+14,1,10,Always incorrect,Always confident but occasionally not confident,0,62.66,0
+15,1,1,Always incorrect,Always partially confident but occasionally confident,2,43.11,0
+15,1,2,Always incorrect,Always partially confident but occasionally confident,1,35.35,0
+15,1,3,Always incorrect,Always partially confident but occasionally confident,1,1.06,0
+15,1,4,Always incorrect,Always partially confident but occasionally confident,1,33.91,0
+15,1,5,Always incorrect,Always partially confident but occasionally confident,1,6.92,0
+15,1,6,Always incorrect,Always partially confident but occasionally confident,1,59.87,0
+15,1,7,Always incorrect,Always partially confident but occasionally confident,2,19.96,0
+15,1,8,Always incorrect,Always partially confident but occasionally confident,1,55.38,0
+15,1,9,Always incorrect,Always partially confident but occasionally confident,1,68.48,0
+15,1,10,Always incorrect,Always partially confident but occasionally confident,2,30.87,0
+16,1,1,Always incorrect,Always partially confident but occasionally not confident,1,33.07,0
+16,1,2,Always incorrect,Always partially confident but occasionally not confident,0,7.08,0
+16,1,3,Always incorrect,Always partially confident but occasionally not confident,1,15.94,0
+16,1,4,Always incorrect,Always partially confident but occasionally not confident,1,42.6,0
+16,1,5,Always incorrect,Always partially confident but occasionally not confident,0,58.45,0
+16,1,6,Always incorrect,Always partially confident but occasionally not confident,0,66.29,0
+16,1,7,Always incorrect,Always partially confident but occasionally not confident,1,38.8,0
+16,1,8,Always incorrect,Always partially confident but occasionally not confident,0,43.82,0
+16,1,9,Always incorrect,Always partially confident but occasionally not confident,0,53.44,0
+16,1,10,Always incorrect,Always partially confident but occasionally not confident,1,40.93,0
+17,1,1,Always incorrect,Always not confident but occasionally confident,2,58.82,0
+17,1,2,Always incorrect,Always not confident but occasionally confident,0,64.46,0
+17,1,3,Always incorrect,Always not confident but occasionally confident,2,14.47,0
+17,1,4,Always incorrect,Always not confident but occasionally confident,0,68.35,0
+17,1,5,Always incorrect,Always not confident but occasionally confident,0,9.05,0
+17,1,6,Always incorrect,Always not confident but occasionally confident,0,42.69,0
+17,1,7,Always incorrect,Always not confident but occasionally confident,0,38.94,0
+17,1,8,Always incorrect,Always not confident but occasionally confident,0,18.77,0
+17,1,9,Always incorrect,Always not confident but occasionally confident,0,52.43,0
+17,1,10,Always incorrect,Always not confident but occasionally confident,2,18.74,0
+18,1,1,Always incorrect,Always not confident but occasionally partially confident,1,31.63,0
+18,1,2,Always incorrect,Always not confident but occasionally partially confident,0,42.73,0
+18,1,3,Always incorrect,Always not confident but occasionally partially confident,0,52.28,0
+18,1,4,Always incorrect,Always not confident but occasionally partially confident,1,9.82,0
+18,1,5,Always incorrect,Always not confident but occasionally partially confident,0,20.96,0
+18,1,6,Always incorrect,Always not confident but occasionally partially confident,0,63.17,0
+18,1,7,Always incorrect,Always not confident but occasionally partially confident,0,31.52,0
+18,1,8,Always incorrect,Always not confident but occasionally partially confident,0,59.92,0
+18,1,9,Always incorrect,Always not confident but occasionally partially confident,0,53.28,0
+18,1,10,Always incorrect,Always not confident but occasionally partially confident,1,8.73,0
+19,1,1,Occasionally correct,Always confident,2,25.57,0
+19,1,2,Occasionally correct,Always confident,2,45.02,0
+19,1,3,Occasionally correct,Always confident,2,18.07,0
+19,1,4,Occasionally correct,Always confident,2,4.87,0
+19,1,5,Occasionally correct,Always confident,2,95.35,1
+19,1,6,Occasionally correct,Always confident,2,58.59,0
+19,1,7,Occasionally correct,Always confident,2,42.32,0
+19,1,8,Occasionally correct,Always confident,2,66.83,0
+19,1,9,Occasionally correct,Always confident,2,25.77,0
+19,1,10,Occasionally correct,Always confident,2,25.14,0
+20,1,1,Occasionally correct,Always partially confident,1,5.79,0
+20,1,2,Occasionally correct,Always partially confident,1,93.26,1
+20,1,3,Occasionally correct,Always partially confident,1,27.63,0
+20,1,4,Occasionally correct,Always partially confident,1,29.24,0
+20,1,5,Occasionally correct,Always partially confident,1,96.84,1
+20,1,6,Occasionally correct,Always partially confident,1,7.11,0
+20,1,7,Occasionally correct,Always partially confident,1,95.0,1
+20,1,8,Occasionally correct,Always partially confident,1,35.0,0
+20,1,9,Occasionally correct,Always partially confident,1,17.15,0
+20,1,10,Occasionally correct,Always partially confident,1,90.91,1
+21,1,1,Occasionally correct,Always not confident,0,0.09,0
+21,1,2,Occasionally correct,Always not confident,0,91.19,1
+21,1,3,Occasionally correct,Always not confident,0,59.51,0
+21,1,4,Occasionally correct,Always not confident,0,67.69,0
+21,1,5,Occasionally correct,Always not confident,0,40.29,0
+21,1,6,Occasionally correct,Always not confident,0,7.24,0
+21,1,7,Occasionally correct,Always not confident,0,94.0,1
+21,1,8,Occasionally correct,Always not confident,0,21.12,0
+21,1,9,Occasionally correct,Always not confident,0,99.58,1
+21,1,10,Occasionally correct,Always not confident,0,68.13,0
+22,1,1,Occasionally correct,Always confident but occasionally partially confident,1,13.18,0
+22,1,2,Occasionally correct,Always confident but occasionally partially confident,1,34.62,0
+22,1,3,Occasionally correct,Always confident but occasionally partially confident,1,60.42,0
+22,1,4,Occasionally correct,Always confident but occasionally partially confident,1,33.63,0
+22,1,5,Occasionally correct,Always confident but occasionally partially confident,1,29.93,0
+22,1,6,Occasionally correct,Always confident but occasionally partially confident,1,92.04,1
+22,1,7,Occasionally correct,Always confident but occasionally partially confident,1,20.53,0
+22,1,8,Occasionally correct,Always confident but occasionally partially confident,1,62.71,0
+22,1,9,Occasionally correct,Always confident but occasionally partially confident,2,61.37,0
+22,1,10,Occasionally correct,Always confident but occasionally partially confident,1,50.97,0
+23,1,1,Occasionally correct,Always confident but occasionally not confident,2,36.37,0
+23,1,2,Occasionally correct,Always confident but occasionally not confident,2,90.18,1
+23,1,3,Occasionally correct,Always confident but occasionally not confident,2,92.85,1
+23,1,4,Occasionally correct,Always confident but occasionally not confident,2,97.71,1
+23,1,5,Occasionally correct,Always confident but occasionally not confident,2,97.39,1
+23,1,6,Occasionally correct,Always confident but occasionally not confident,0,66.12,0
+23,1,7,Occasionally correct,Always confident but occasionally not confident,2,68.07,0
+23,1,8,Occasionally correct,Always confident but occasionally not confident,2,29.66,0
+23,1,9,Occasionally correct,Always confident but occasionally not confident,0,1.58,0
+23,1,10,Occasionally correct,Always confident but occasionally not confident,2,26.14,0
+24,1,1,Occasionally correct,Always partially confident but occasionally confident,1,99.41,1
+24,1,2,Occasionally correct,Always partially confident but occasionally confident,1,5.21,0
+24,1,3,Occasionally correct,Always partially confident but occasionally confident,1,41.23,0
+24,1,4,Occasionally correct,Always partially confident but occasionally confident,1,47.09,0
+24,1,5,Occasionally correct,Always partially confident but occasionally confident,1,46.33,0
+24,1,6,Occasionally correct,Always partially confident but occasionally confident,1,41.65,0
+24,1,7,Occasionally correct,Always partially confident but occasionally confident,2,62.96,0
+24,1,8,Occasionally correct,Always partially confident but occasionally confident,1,15.62,0
+24,1,9,Occasionally correct,Always partially confident but occasionally confident,1,92.83,1
+24,1,10,Occasionally correct,Always partially confident but occasionally confident,1,96.42,1
+25,1,1,Occasionally correct,Always partially confident but occasionally not confident,1,3.79,0
+25,1,2,Occasionally correct,Always partially confident but occasionally not confident,0,92.37,1
+25,1,3,Occasionally correct,Always partially confident but occasionally not confident,1,94.5,1
+25,1,4,Occasionally correct,Always partially confident but occasionally not confident,1,33.59,0
+25,1,5,Occasionally correct,Always partially confident but occasionally not confident,1,34.69,0
+25,1,6,Occasionally correct,Always partially confident but occasionally not confident,1,5.27,0
+25,1,7,Occasionally correct,Always partially confident but occasionally not confident,0,41.91,0
+25,1,8,Occasionally correct,Always partially confident but occasionally not confident,0,97.81,1
+25,1,9,Occasionally correct,Always partially confident but occasionally not confident,1,90.18,1
+25,1,10,Occasionally correct,Always partially confident but occasionally not confident,1,2.46,0
+26,1,1,Occasionally correct,Always not confident but occasionally confident,2,95.18,1
+26,1,2,Occasionally correct,Always not confident but occasionally confident,0,95.36,1
+26,1,3,Occasionally correct,Always not confident but occasionally confident,0,93.66,1
+26,1,4,Occasionally correct,Always not confident but occasionally confident,0,63.62,0
+26,1,5,Occasionally correct,Always not confident but occasionally confident,0,14.03,0
+26,1,6,Occasionally correct,Always not confident but occasionally confident,2,93.55,1
+26,1,7,Occasionally correct,Always not confident but occasionally confident,0,0.79,0
+26,1,8,Occasionally correct,Always not confident but occasionally confident,0,10.9,0
+26,1,9,Occasionally correct,Always not confident but occasionally confident,0,1.51,0
+26,1,10,Occasionally correct,Always not confident but occasionally confident,0,96.45,1
+27,1,1,Occasionally correct,Always not confident but occasionally partially confident,0,19.31,0
+27,1,2,Occasionally correct,Always not confident but occasionally partially confident,0,2.61,0
+27,1,3,Occasionally correct,Always not confident but occasionally partially confident,0,0.17,0
+27,1,4,Occasionally correct,Always not confident but occasionally partially confident,0,30.04,0
+27,1,5,Occasionally correct,Always not confident but occasionally partially confident,1,57.09,0
+27,1,6,Occasionally correct,Always not confident but occasionally partially confident,0,22.48,0
+27,1,7,Occasionally correct,Always not confident but occasionally partially confident,0,19.6,0
+27,1,8,Occasionally correct,Always not confident but occasionally partially confident,0,94.07,1
+27,1,9,Occasionally correct,Always not confident but occasionally partially confident,0,29.03,0
+27,1,10,Occasionally correct,Always not confident but occasionally partially confident,1,50.27,0
+28,1,1,Occasionally incorrect,Always confident,2,91.34,1
+28,1,2,Occasionally incorrect,Always confident,2,96.28,1
+28,1,3,Occasionally incorrect,Always confident,2,28.47,0
+28,1,4,Occasionally incorrect,Always confident,2,96.99,1
+28,1,5,Occasionally incorrect,Always confident,2,90.22,1
+28,1,6,Occasionally incorrect,Always confident,2,97.28,1
+28,1,7,Occasionally incorrect,Always confident,2,97.66,1
+28,1,8,Occasionally incorrect,Always confident,2,17.66,0
+28,1,9,Occasionally incorrect,Always confident,2,29.28,0
+28,1,10,Occasionally incorrect,Always confident,2,92.95,1
+29,1,1,Occasionally incorrect,Always partially confident,1,95.49,1
+29,1,2,Occasionally incorrect,Always partially confident,1,48.01,0
+29,1,3,Occasionally incorrect,Always partially confident,1,1.04,0
+29,1,4,Occasionally incorrect,Always partially confident,1,91.06,1
+29,1,5,Occasionally incorrect,Always partially confident,1,97.85,1
+29,1,6,Occasionally incorrect,Always partially confident,1,11.06,0
+29,1,7,Occasionally incorrect,Always partially confident,1,94.73,1
+29,1,8,Occasionally incorrect,Always partially confident,1,98.0,1
+29,1,9,Occasionally incorrect,Always partially confident,1,25.5,0
+29,1,10,Occasionally incorrect,Always partially confident,1,96.18,1
+30,1,1,Occasionally incorrect,Always not confident,0,94.73,1
+30,1,2,Occasionally incorrect,Always not confident,0,93.48,1
+30,1,3,Occasionally incorrect,Always not confident,0,98.31,1
+30,1,4,Occasionally incorrect,Always not confident,0,97.8,1
+30,1,5,Occasionally incorrect,Always not confident,0,97.78,1
+30,1,6,Occasionally incorrect,Always not confident,0,98.75,1
+30,1,7,Occasionally incorrect,Always not confident,0,94.55,1
+30,1,8,Occasionally incorrect,Always not confident,0,92.84,1
+30,1,9,Occasionally incorrect,Always not confident,0,28.21,0
+30,1,10,Occasionally incorrect,Always not confident,0,54.7,0
+31,1,1,Occasionally incorrect,Always confident but occasionally partially confident,1,3.67,0
+31,1,2,Occasionally incorrect,Always confident but occasionally partially confident,1,25.42,0
+31,1,3,Occasionally incorrect,Always confident but occasionally partially confident,2,91.63,1
+31,1,4,Occasionally incorrect,Always confident but occasionally partially confident,2,96.92,1
+31,1,5,Occasionally incorrect,Always confident but occasionally partially confident,2,98.28,1
+31,1,6,Occasionally incorrect,Always confident but occasionally partially confident,1,94.55,1
+31,1,7,Occasionally incorrect,Always confident but occasionally partially confident,2,34.96,0
+31,1,8,Occasionally incorrect,Always confident but occasionally partially confident,2,96.37,1
+31,1,9,Occasionally incorrect,Always confident but occasionally partially confident,2,96.84,1
+31,1,10,Occasionally incorrect,Always confident but occasionally partially confident,2,27.04,0
+32,1,1,Occasionally incorrect,Always confident but occasionally not confident,2,96.24,1
+32,1,2,Occasionally incorrect,Always confident but occasionally not confident,0,95.58,1
+32,1,3,Occasionally incorrect,Always confident but occasionally not confident,0,27.25,0
+32,1,4,Occasionally incorrect,Always confident but occasionally not confident,2,97.16,1
+32,1,5,Occasionally incorrect,Always confident but occasionally not confident,2,47.55,0
+32,1,6,Occasionally incorrect,Always confident but occasionally not confident,2,96.5,1
+32,1,7,Occasionally incorrect,Always confident but occasionally not confident,2,35.44,0
+32,1,8,Occasionally incorrect,Always confident but occasionally not confident,2,97.45,1
+32,1,9,Occasionally incorrect,Always confident but occasionally not confident,2,20.95,0
+32,1,10,Occasionally incorrect,Always confident but occasionally not confident,0,4.02,0
+33,1,1,Occasionally incorrect,Always partially confident but occasionally confident,2,94.13,1
+33,1,2,Occasionally incorrect,Always partially confident but occasionally confident,1,55.56,0
+33,1,3,Occasionally incorrect,Always partially confident but occasionally confident,1,56.56,0
+33,1,4,Occasionally incorrect,Always partially confident but occasionally confident,1,13.16,0
+33,1,5,Occasionally incorrect,Always partially confident but occasionally confident,1,8.57,0
+33,1,6,Occasionally incorrect,Always partially confident but occasionally confident,2,97.72,1
+33,1,7,Occasionally incorrect,Always partially confident but occasionally confident,2,91.2,1
+33,1,8,Occasionally incorrect,Always partially confident but occasionally confident,1,9.32,0
+33,1,9,Occasionally incorrect,Always partially confident but occasionally confident,2,6.6,0
+33,1,10,Occasionally incorrect,Always partially confident but occasionally confident,1,91.75,1
+34,1,1,Occasionally incorrect,Always partially confident but occasionally not confident,1,99.44,1
+34,1,2,Occasionally incorrect,Always partially confident but occasionally not confident,1,97.28,1
+34,1,3,Occasionally incorrect,Always partially confident but occasionally not confident,1,92.42,1
+34,1,4,Occasionally incorrect,Always partially confident but occasionally not confident,0,94.23,1
+34,1,5,Occasionally incorrect,Always partially confident but occasionally not confident,1,92.41,1
+34,1,6,Occasionally incorrect,Always partially confident but occasionally not confident,1,11.0,0
+34,1,7,Occasionally incorrect,Always partially confident but occasionally not confident,1,92.83,1
+34,1,8,Occasionally incorrect,Always partially confident but occasionally not confident,1,93.57,1
+34,1,9,Occasionally incorrect,Always partially confident but occasionally not confident,0,59.29,0
+34,1,10,Occasionally incorrect,Always partially confident but occasionally not confident,1,95.66,1
+35,1,1,Occasionally incorrect,Always not confident but occasionally confident,2,99.14,1
+35,1,2,Occasionally incorrect,Always not confident but occasionally confident,0,99.02,1
+35,1,3,Occasionally incorrect,Always not confident but occasionally confident,2,10.08,0
+35,1,4,Occasionally incorrect,Always not confident but occasionally confident,0,27.67,0
+35,1,5,Occasionally incorrect,Always not confident but occasionally confident,0,91.47,1
+35,1,6,Occasionally incorrect,Always not confident but occasionally confident,2,90.5,1
+35,1,7,Occasionally incorrect,Always not confident but occasionally confident,0,97.28,1
+35,1,8,Occasionally incorrect,Always not confident but occasionally confident,0,93.3,1
+35,1,9,Occasionally incorrect,Always not confident but occasionally confident,0,93.45,1
+35,1,10,Occasionally incorrect,Always not confident but occasionally confident,0,98.92,1
+36,1,1,Occasionally incorrect,Always not confident but occasionally partially confident,0,92.04,1
+36,1,2,Occasionally incorrect,Always not confident but occasionally partially confident,1,90.09,1
+36,1,3,Occasionally incorrect,Always not confident but occasionally partially confident,0,34.91,0
+36,1,4,Occasionally incorrect,Always not confident but occasionally partially confident,1,28.98,0
+36,1,5,Occasionally incorrect,Always not confident but occasionally partially confident,0,98.41,1
+36,1,6,Occasionally incorrect,Always not confident but occasionally partially confident,1,97.84,1
+36,1,7,Occasionally incorrect,Always not confident but occasionally partially confident,0,93.43,1
+36,1,8,Occasionally incorrect,Always not confident but occasionally partially confident,0,91.24,1
+36,1,9,Occasionally incorrect,Always not confident but occasionally partially confident,0,28.42,0
+36,1,10,Occasionally incorrect,Always not confident but occasionally partially confident,0,91.59,1

@@ -23,6 +23,10 @@ https://dibyanshuchatterjee.com/ra-kt
 
 The app.py module hosts the streamlit app code which implements BKT (using pyBKT) to trace student's cognition and Knowledge Monitoring Accuracy (KMA) and Knowledge Monitoring Bias (KMB) to trace student's metacognition. 
 
+## inference_data_gen.py:
+
+This module is created to generate inference data for evaluating some specified use cases. 
+
 ## RA-KT Usage:
 
 1.
