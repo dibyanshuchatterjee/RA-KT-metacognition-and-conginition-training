@@ -1,0 +1,11 @@
+,student_id,assignment_id,question_id,correctness_trait,confidence_trait,given_confidence,acquired_grade,grade_class,awareness,awareness_change,awareness_class,outlook,outlook_change,outlook_class,initial_mastery,mastery,mastery_change
+290,30,1,1,Occasionally incorrect,Always not confident,0,94.73,1,-1.0,0.0,LOW,-1.0,0.0,,0.6385961603305127,0.8103779094439436,0.0
+291,30,1,2,Occasionally incorrect,Always not confident,0,93.48,1,-1.0,0.0,LOW,-1.0,0.0,,0.6385961603305127,0.9112737402744412,0.10089583083049758
+292,30,1,3,Occasionally incorrect,Always not confident,0,98.31,1,-1.0,0.0,LOW,-1.0,0.0,,0.6385961603305127,0.9609647612054872,0.04969102093104605
+293,30,1,4,Occasionally incorrect,Always not confident,0,97.8,1,-1.0,0.0,LOW,-1.0,0.0,,0.6385961603305127,0.983317344365141,0.022352583159653716
+294,30,1,5,Occasionally incorrect,Always not confident,0,97.78,1,-1.0,0.0,LOW,-1.0,0.0,,0.6385961603305127,0.9929607839343902,0.00964343956924929
+295,30,1,6,Occasionally incorrect,Always not confident,0,98.75,1,-1.0,0.0,LOW,-1.0,0.0,,0.6385961603305127,0.9970459961575704,0.004085212223180146
+296,30,1,7,Occasionally incorrect,Always not confident,0,94.55,1,-1.0,0.0,LOW,-1.0,0.0,,0.6385961603305127,0.9987632078476325,0.0017172116900621148
+297,30,1,8,Occasionally incorrect,Always not confident,0,92.84,1,-1.0,0.0,LOW,-1.0,0.0,,0.6385961603305127,0.9994826764306808,0.0007194685830482772
+298,30,1,9,Occasionally incorrect,Always not confident,0,28.21,0,-1.0,0.0,LOW,-1.0,0.0,,0.6385961603305127,0.9989954729928212,-0.00048720343785957354
+299,30,1,10,Occasionally incorrect,Always not confident,0,54.7,0,-1.0,0.0,LOW,-1.0,0.0,,0.6385961603305127,0.9980504129657346,-0.0009450600270866083

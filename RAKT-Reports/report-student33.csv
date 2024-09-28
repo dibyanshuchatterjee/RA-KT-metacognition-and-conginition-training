@@ -1,0 +1,11 @@
+,student_id,assignment_id,question_id,correctness_trait,confidence_trait,given_confidence,acquired_grade,grade_class,awareness,awareness_change,awareness_class,outlook,outlook_change,outlook_class,initial_mastery,mastery,mastery_change
+320,33,1,1,Occasionally incorrect,Always partially confident but occasionally confident,2,94.13,1,1.0,0.0,HIGH,0.0,0.0,,0.6385961603305127,0.8103779094439436,0.0
+321,33,1,2,Occasionally incorrect,Always partially confident but occasionally confident,1,55.56,0,0.25,-0.75,AVERAGE,-0.25,-0.25,,0.6385961603305127,0.691928170109192,-0.11844973933475156
+322,33,1,3,Occasionally incorrect,Always partially confident but occasionally confident,1,56.56,0,0.0,-0.25,AVERAGE,-0.3333,-0.08329999999999999,,0.6385961603305127,0.5459353196643771,-0.14599285044481491
+323,33,1,4,Occasionally incorrect,Always partially confident but occasionally confident,1,13.16,0,-0.125,-0.125,AVERAGE,-0.375,-0.041700000000000015,,0.6385961603305127,0.399448503003778,-0.14648681666059915
+324,33,1,5,Occasionally incorrect,Always partially confident but occasionally confident,1,8.57,0,-0.2,-0.07500000000000001,AVERAGE,-0.4,-0.025000000000000022,,0.6385961603305127,0.279867590097996,-0.11958091290578199
+325,33,1,6,Occasionally incorrect,Always partially confident but occasionally confident,2,97.72,1,0.0,0.2,AVERAGE,-0.3333,0.06670000000000004,,0.6385961603305127,0.4939398626099685,0.21407227251197253
+326,33,1,7,Occasionally incorrect,Always partially confident but occasionally confident,2,91.2,1,0.1429,0.1429,AVERAGE,-0.2857,0.047599999999999976,,0.6385961603305127,0.7042639799357553,0.21032411732578676
+327,33,1,8,Occasionally incorrect,Always partially confident but occasionally confident,1,9.32,0,0.0625,-0.0804,AVERAGE,-0.3125,-0.02679999999999999,,0.6385961603305127,0.5598632160770354,-0.14440076385871992
+328,33,1,9,Occasionally incorrect,Always partially confident but occasionally confident,2,6.6,0,0.1667,0.10419999999999999,AVERAGE,-0.2778,0.03470000000000001,,0.6385961603305127,0.41211314255625986,-0.14775007352077552
+329,33,1,10,Occasionally incorrect,Always partially confident but occasionally confident,1,91.75,1,0.1,-0.06669999999999998,AVERAGE,-0.3,-0.022199999999999998,,0.6385961603305127,0.6328090405151572,0.22069589795889732

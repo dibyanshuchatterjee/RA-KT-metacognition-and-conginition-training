@@ -136,7 +136,7 @@ def calculate_kmb(confidence_correctness):
     return kmb_list
 
 def calculate_deltas(list_delta):
-    deltas = []
+    deltas = [0]
     
     for i in range(1, len(list_delta)):
         delta = list_delta[i] - list_delta[i - 1]
