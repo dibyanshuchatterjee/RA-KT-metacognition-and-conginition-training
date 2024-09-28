@@ -39,9 +39,9 @@ def calculate_kma(confidence_correctness):
 
         # Calculate counts for each question up to n
         for idx, c_c in enumerate(temp_list):
-            if c_c[2] >= 0.7 and c_c[2] < 0.9:
+            if c_c[1] >= 0.7 and c_c[1] < 0.9:
                 ans = 0.5
-            elif c_c[2] >= 0.9:
+            elif c_c[1] >= 0.9:
                 ans = 1
             else:
                 ans = 0 
@@ -91,9 +91,9 @@ def calculate_kmb(confidence_correctness):
 
         # Calculate counts for each question up to n
         for c_c in temp_list:
-            if c_c[2] >= 0.7 and c_c[2] < 0.9:
+            if c_c[1] >= 0.7 and c_c[1] < 0.9:
                 ans = 0.5
-            elif c_c[2] >= 0.9:
+            elif c_c[1] >= 0.9:
                 ans = 1
             else:
                 ans = 0 
@@ -173,9 +173,10 @@ def classify_kmb(kmbs):
 def main():
     # Read inference data:
     inference_data = pd.read_csv('./Inference-Data-Sample/student_behaviors_simulated.csv')
-
+    print("Inference data loaded")
     # Train BKT model
     model = train_bkt()
+    print("Model Trained")
     
     # Calculating KMA and KMB for each student's performance (36 * 10)
     for i in range(1, 37):
@@ -224,6 +225,10 @@ def main():
         
         # Saving each report:
         df.to_csv(f'./RAKT-Reports/report-student{i}.csv')
+        
+        
+if __name__ == "__main__":
+    main()
         
 
         
