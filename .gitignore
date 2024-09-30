@@ -4,3 +4,4 @@ venv/
 .venv/
 transactions.db
 ct.csv
+test.py

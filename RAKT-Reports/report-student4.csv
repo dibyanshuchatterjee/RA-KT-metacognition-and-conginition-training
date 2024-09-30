@@ -1,11 +1,11 @@
 ,student_id,assignment_id,question_id,correctness_trait,confidence_trait,given_confidence,acquired_grade,grade_class,awareness,awareness_change,awareness_class,outlook,outlook_change,outlook_class,initial_mastery,mastery,mastery_change
-30,4,1,1,Always correct,Always confident but occasionally partially confident,2,90.08,1,1.0,0.0,HIGH,0.0,0.0,,0.6385961603305127,0.8103779094439436,0.0
-31,4,1,2,Always correct,Always confident but occasionally partially confident,2,99.72,1,1.0,0.0,HIGH,0.0,0.0,,0.6385961603305127,0.9112737402744412,0.10089583083049758
-32,4,1,3,Always correct,Always confident but occasionally partially confident,1,94.43,1,0.5,-0.5,HIGH,-0.1667,-0.1667,,0.6385961603305127,0.9609647612054872,0.04969102093104605
-33,4,1,4,Always correct,Always confident but occasionally partially confident,1,96.85,1,0.25,-0.25,AVERAGE,-0.25,-0.08330000000000001,,0.6385961603305127,0.983317344365141,0.022352583159653716
-34,4,1,5,Always correct,Always confident but occasionally partially confident,2,98.66,1,0.4,0.15000000000000002,AVERAGE,-0.2,0.04999999999999999,,0.6385961603305127,0.9929607839343902,0.00964343956924929
-35,4,1,6,Always correct,Always confident but occasionally partially confident,2,98.58,1,0.5,0.09999999999999998,HIGH,-0.1667,0.033300000000000024,,0.6385961603305127,0.9970459961575704,0.004085212223180146
-36,4,1,7,Always correct,Always confident but occasionally partially confident,2,97.03,1,0.5714,0.07140000000000002,HIGH,-0.1429,0.023799999999999988,,0.6385961603305127,0.9987632078476325,0.0017172116900621148
-37,4,1,8,Always correct,Always confident but occasionally partially confident,1,90.06,1,0.4375,-0.13390000000000002,AVERAGE,-0.1875,-0.0446,,0.6385961603305127,0.9994826764306808,0.0007194685830482772
-38,4,1,9,Always correct,Always confident but occasionally partially confident,2,93.75,1,0.5,0.0625,HIGH,-0.1667,0.020800000000000013,,0.6385961603305127,0.9997837022954318,0.00030102586475100335
-39,4,1,10,Always correct,Always confident but occasionally partially confident,1,98.43,1,0.4,-0.09999999999999998,AVERAGE,-0.2,-0.033300000000000024,,0.6385961603305127,0.9999095792758959,0.00012587698046406803
+30,4,1,1,Always correct,Always confident but occasionally partially confident,2,90.08,1,1.0,0.0,HIGH,0.0,0.0,RANDOM,0.6114385928073756,0.7888426553309169,0.0
+31,4,1,2,Always correct,Always confident but occasionally partially confident,2,99.72,1,1.0,0.0,HIGH,0.0,0.0,RANDOM,0.6114385928073756,0.8980085587460824,0.10916590341516552
+32,4,1,3,Always correct,Always confident but occasionally partially confident,1,94.43,1,0.5,-0.5,HIGH,-0.1667,-0.1667,RANDOM,0.6114385928073756,0.9538916131902438,0.05588305444416142
+33,4,1,4,Always correct,Always confident but occasionally partially confident,1,96.85,1,0.25,-0.25,AVERAGE,-0.25,-0.08330000000000001,RANDOM,0.6114385928073756,0.9798169025027206,0.02592528931247673
+34,4,1,5,Always correct,Always confident but occasionally partially confident,2,98.66,1,0.4,0.15000000000000002,AVERAGE,-0.2,0.04999999999999999,RANDOM,0.6114385928073756,0.9912934261799321,0.011476523677211525
+35,4,1,6,Always correct,Always confident but occasionally partially confident,2,98.58,1,0.5,0.09999999999999998,HIGH,-0.1667,0.033300000000000024,RANDOM,0.6114385928073756,0.9962681359066804,0.004974709726748294
+36,4,1,7,Always correct,Always confident but occasionally partially confident,2,97.03,1,0.5714,0.07140000000000002,HIGH,-0.1429,0.023799999999999988,RANDOM,0.6114385928073756,0.99840483939793,0.002136703491249614
+37,4,1,8,Always correct,Always confident but occasionally partially confident,1,90.06,1,0.4375,-0.13390000000000002,AVERAGE,-0.1875,-0.0446,RANDOM,0.6114385928073756,0.9993189662459453,0.0009141268480152842
+38,4,1,9,Always correct,Always confident but occasionally partially confident,2,93.75,1,0.5,0.0625,HIGH,-0.1667,0.020800000000000013,RANDOM,0.6114385928073756,0.9997093883726372,0.0003904221266919361
+39,4,1,10,Always correct,Always confident but occasionally partially confident,1,98.43,1,0.4,-0.09999999999999998,AVERAGE,-0.2,-0.033300000000000024,RANDOM,0.6114385928073756,0.9998760166228767,0.0001666282502394978

@@ -1,11 +1,11 @@
 ,student_id,assignment_id,question_id,correctness_trait,confidence_trait,given_confidence,acquired_grade,grade_class,awareness,awareness_change,awareness_class,outlook,outlook_change,outlook_class,initial_mastery,mastery,mastery_change
-50,6,1,1,Always correct,Always partially confident but occasionally confident,1,94.2,1,-0.5,0.0,LOW,-0.5,0.0,,0.6385961603305127,0.8103779094439436,0.0
-51,6,1,2,Always correct,Always partially confident but occasionally confident,1,98.08,1,-0.5,0.0,LOW,-0.5,0.0,,0.6385961603305127,0.9112737402744412,0.10089583083049758
-52,6,1,3,Always correct,Always partially confident but occasionally confident,2,99.48,1,0.0,0.5,AVERAGE,-0.3333,0.16670000000000001,,0.6385961603305127,0.9609647612054872,0.04969102093104605
-53,6,1,4,Always correct,Always partially confident but occasionally confident,1,90.48,1,-0.125,-0.125,AVERAGE,-0.375,-0.041700000000000015,,0.6385961603305127,0.983317344365141,0.022352583159653716
-54,6,1,5,Always correct,Always partially confident but occasionally confident,2,93.98,1,0.1,0.225,AVERAGE,-0.3,0.07500000000000001,,0.6385961603305127,0.9929607839343902,0.00964343956924929
-55,6,1,6,Always correct,Always partially confident but occasionally confident,1,99.82,1,0.0,-0.1,AVERAGE,-0.3333,-0.033299999999999996,,0.6385961603305127,0.9970459961575704,0.004085212223180146
-56,6,1,7,Always correct,Always partially confident but occasionally confident,1,94.08,1,-0.0714,-0.0714,AVERAGE,-0.3571,-0.023799999999999988,,0.6385961603305127,0.9987632078476325,0.0017172116900621148
-57,6,1,8,Always correct,Always partially confident but occasionally confident,1,91.85,1,-0.125,-0.053599999999999995,AVERAGE,-0.375,-0.017900000000000027,,0.6385961603305127,0.9994826764306808,0.0007194685830482772
-58,6,1,9,Always correct,Always partially confident but occasionally confident,1,92.61,1,-0.1667,-0.04169999999999999,AVERAGE,-0.3889,-0.013900000000000023,,0.6385961603305127,0.9997837022954318,0.00030102586475100335
-59,6,1,10,Always correct,Always partially confident but occasionally confident,1,92.04,1,-0.2,-0.033300000000000024,AVERAGE,-0.4,-0.011099999999999999,,0.6385961603305127,0.9999095792758959,0.00012587698046406803
+50,6,1,1,Always correct,Always partially confident but occasionally confident,1,94.2,1,-0.5,0.0,LOW,-0.5,0.0,PESSIMISTIC,0.6114385928073756,0.7888426553309169,0.0
+51,6,1,2,Always correct,Always partially confident but occasionally confident,1,98.08,1,-0.5,0.0,LOW,-0.5,0.0,PESSIMISTIC,0.6114385928073756,0.8980085587460824,0.10916590341516552
+52,6,1,3,Always correct,Always partially confident but occasionally confident,2,99.48,1,0.0,0.5,AVERAGE,-0.3333,0.16670000000000001,PESSIMISTIC,0.6114385928073756,0.9538916131902438,0.05588305444416142
+53,6,1,4,Always correct,Always partially confident but occasionally confident,1,90.48,1,-0.125,-0.125,AVERAGE,-0.375,-0.041700000000000015,PESSIMISTIC,0.6114385928073756,0.9798169025027206,0.02592528931247673
+54,6,1,5,Always correct,Always partially confident but occasionally confident,2,93.98,1,0.1,0.225,AVERAGE,-0.3,0.07500000000000001,PESSIMISTIC,0.6114385928073756,0.9912934261799321,0.011476523677211525
+55,6,1,6,Always correct,Always partially confident but occasionally confident,1,99.82,1,0.0,-0.1,AVERAGE,-0.3333,-0.033299999999999996,PESSIMISTIC,0.6114385928073756,0.9962681359066804,0.004974709726748294
+56,6,1,7,Always correct,Always partially confident but occasionally confident,1,94.08,1,-0.0714,-0.0714,AVERAGE,-0.3571,-0.023799999999999988,PESSIMISTIC,0.6114385928073756,0.99840483939793,0.002136703491249614
+57,6,1,8,Always correct,Always partially confident but occasionally confident,1,91.85,1,-0.125,-0.053599999999999995,AVERAGE,-0.375,-0.017900000000000027,PESSIMISTIC,0.6114385928073756,0.9993189662459453,0.0009141268480152842
+58,6,1,9,Always correct,Always partially confident but occasionally confident,1,92.61,1,-0.1667,-0.04169999999999999,AVERAGE,-0.3889,-0.013900000000000023,PESSIMISTIC,0.6114385928073756,0.9997093883726372,0.0003904221266919361
+59,6,1,10,Always correct,Always partially confident but occasionally confident,1,92.04,1,-0.2,-0.033300000000000024,AVERAGE,-0.4,-0.011099999999999999,PESSIMISTIC,0.6114385928073756,0.9998760166228767,0.0001666282502394978

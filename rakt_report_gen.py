@@ -169,6 +169,8 @@ def classify_kmb(kmbs):
             kmb_classes.append("OPTIMISTIC")
         else:
             kmb_classes.append("OPTEMISTIC")
+            
+    return kmb_classes
 
 def main():
     # Read inference data:
